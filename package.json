@@ -1,0 +1,29 @@
+{
+  "name": "craco-resolve-url-loader",
+  "version": "1.0.0",
+  "description": "A resolve-url-loader plugin for craco",
+  "main": "lib/craco-resolve-url-loader.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mikesmit/craco-resolve-url-loader.git"
+  },
+  "keywords": [
+    "craco",
+    "create-react-app",
+    "resolve-url-loader",
+    "sass"
+  ],
+  "author": "Michael Smit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikesmit/craco-resolve-url-loader/issues"
+  },
+  "homepage": "https://github.com/mikesmit/craco-resolve-url-loader#readme",
+  "dependencies": {
+    "@craco/craco": "^3.1.1",
+    "resolve-url-loader": "^3.0.0"
+  }
+}
